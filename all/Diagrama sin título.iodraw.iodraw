@@ -50,7 +50,7 @@
             <mxPoint x="460" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JAD9qgDEeSQXkdao1VZ-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-14">
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-16" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-14">
           <mxGeometry x="0.2923" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
