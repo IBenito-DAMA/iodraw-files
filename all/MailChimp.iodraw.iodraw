@@ -18,10 +18,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JAD9qgDEeSQXkdao1VZ-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="-JAD9qgDEeSQXkdao1VZ-9">
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="270" as="sourcePoint" />
-            <mxPoint x="490" y="271" as="targetPoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -38,10 +38,10 @@
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-9" value="CATEGORIA / GRUPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-JAD9qgDEeSQXkdao1VZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=80;exitPerimeter=0;entryX=0;entryY=0;entryDx=110;entryDy=10;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-18" target="-JAD9qgDEeSQXkdao1VZ-19" edge="1">
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=80;exitPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="170" as="sourcePoint" />
-            <mxPoint x="310" y="299.9999999999999" as="targetPoint" />
+            <mxPoint x="330" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-16" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-JAD9qgDEeSQXkdao1VZ-14" vertex="1" connectable="0">
@@ -58,7 +58,7 @@
           <mxGeometry x="440" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-19" value="INTERESES" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
