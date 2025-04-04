@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="520" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF640A;" vertex="1" parent="1">
-          <mxGeometry x="220" y="662" width="570" height="90" as="geometry" />
+          <mxGeometry x="100" y="690" width="570" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF640A;" vertex="1" parent="1">
           <mxGeometry x="280" y="542" width="150" height="100" as="geometry" />
@@ -90,13 +90,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-13" value="INTERÉS:&lt;div&gt;Equipo DAMA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="682" width="120" height="50" as="geometry" />
+          <mxGeometry x="200" y="710" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-15" target="1KgKn0QokJ7sPZmmxTpx-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-15" value="INTERÉS:&lt;div&gt;Socios activos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="682" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="710" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-17" value="CATEGORÍA:&lt;div&gt;5_DAMA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="896" width="120" height="60" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-21" value="INTERÉS:&lt;div&gt;Bajas DAMA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="682" width="120" height="50" as="geometry" />
+          <mxGeometry x="510" y="710" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-27" value="CATEGORIAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="860" width="100" height="30" as="geometry" />
@@ -121,15 +121,6 @@
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-33" value="LISTAS/AUDIENCIAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="498" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="588" />
-              <mxPoint x="420" y="635" />
-              <mxPoint x="410" y="635" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-34" value="&lt;b&gt;Isa&lt;/b&gt;&lt;div&gt;&lt;b&gt;ibenito@damautor.es&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="20" height="38" as="geometry" />
