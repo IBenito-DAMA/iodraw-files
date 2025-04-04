@@ -105,7 +105,7 @@
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-21" value="INTERÉS:&lt;div&gt;Equipo_DAma&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="120" height="50" as="geometry" />
+          <mxGeometry x="610" y="660" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
