@@ -13,6 +13,11 @@
             <mxPoint x="320" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-5">
+          <mxGeometry x="-0.2333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-6" value="Suscriptores&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="120" height="120" as="geometry" />
         </mxCell>
@@ -24,6 +29,11 @@
             <mxPoint x="390" y="450" as="sourcePoint" />
             <mxPoint x="320" y="301" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-10" value="Cada interés" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-8">
+          <mxGeometry x="0.1906" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-9" value="CATEGORIA / GRUPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
