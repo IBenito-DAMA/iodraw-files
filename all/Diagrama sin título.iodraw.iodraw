@@ -18,9 +18,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JAD9qgDEeSQXkdao1VZ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="151.98000000000002" y="301.0099999999999" as="sourcePoint" />
+            <mxPoint x="170" y="301" as="sourcePoint" />
             <mxPoint x="320" y="301" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
