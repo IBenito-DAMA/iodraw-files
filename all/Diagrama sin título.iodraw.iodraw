@@ -55,6 +55,11 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-17" value="Cada suscriptor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-14">
+          <mxGeometry x="-0.3936" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
