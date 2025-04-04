@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-9" value="CATEGORIA / GRUPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=80;exitPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-18" target="-JAD9qgDEeSQXkdao1VZ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
