@@ -122,12 +122,12 @@
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-33" value="LISTAS/AUDIENCIAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="498" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-13">
+        <mxCell id="1KgKn0QokJ7sPZmmxTpx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="566" />
               <mxPoint x="400" y="613" />
-              <mxPoint x="360" y="613" />
+              <mxPoint x="390" y="613" />
             </Array>
           </mxGeometry>
         </mxCell>
