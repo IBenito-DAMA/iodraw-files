@@ -122,14 +122,8 @@
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-33" value="LISTAS/AUDIENCIAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="498" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="547" />
-              <mxPoint x="420" y="630" />
-              <mxPoint x="360" y="630" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1KgKn0QokJ7sPZmmxTpx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-34" value="&lt;b&gt;Isa&lt;/b&gt;&lt;div&gt;&lt;b&gt;ibenito@damautor.es&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="528" width="20" height="38" as="geometry" />
