@@ -114,7 +114,7 @@
           <mxGeometry x="50" y="860" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-29" value="SUSCRIPTORES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="498" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-31" value="INTERESES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="90" height="30" as="geometry" />
