@@ -131,8 +131,8 @@
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-33" value="LISTAS/AUDIENCIAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="498" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-34" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="10" height="20" as="geometry" />
+        <mxCell id="1KgKn0QokJ7sPZmmxTpx-34" value="Isa&lt;div&gt;ibenito@damautor.es&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="498" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
