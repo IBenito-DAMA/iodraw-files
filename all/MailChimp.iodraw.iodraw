@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-13" value="INTERÉS:&lt;div&gt;Equipo DAMA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="710" width="120" height="50" as="geometry" />
+          <mxGeometry x="130" y="710" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-15" target="1KgKn0QokJ7sPZmmxTpx-18">
           <mxGeometry relative="1" as="geometry" />
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-34" value="&lt;b&gt;Isa&lt;/b&gt;&lt;div&gt;&lt;b&gt;ibenito@damautor.es&lt;/b&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="20" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-34" target="1KgKn0QokJ7sPZmmxTpx-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
