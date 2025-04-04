@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-9" value="CATEGORIA / GRUPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=80;exitPerimeter=0;entryX=0;entryY=0;entryDx=110;entryDy=10;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-18" target="-JAD9qgDEeSQXkdao1VZ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,7 +61,7 @@
           <mxGeometry x="440" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-19" value="INTERESES" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="295" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
