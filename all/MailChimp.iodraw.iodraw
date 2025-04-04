@@ -104,7 +104,7 @@
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-18" value="CATEGORÍA:&lt;div&gt;1_SOCIOS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-21" value="INTERÉS:&lt;div&gt;Equipo_DAma&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1KgKn0QokJ7sPZmmxTpx-21" value="INTERÉS:&lt;div&gt;Bajas dama&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="660" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
