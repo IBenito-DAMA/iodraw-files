@@ -30,6 +30,11 @@
             <mxPoint x="-52" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1KgKn0QokJ7sPZmmxTpx-1" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JAD9qgDEeSQXkdao1VZ-8">
+          <mxGeometry x="0.4532" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-9" value="CATEGORIA / GRUPO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
         </mxCell>
