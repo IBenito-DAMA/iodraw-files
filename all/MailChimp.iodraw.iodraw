@@ -235,12 +235,13 @@
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-27" value="Segmento Interés: Socios activos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="645" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-BwYqmBb2P-KSW3FyqC5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.456;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-15" target="-BwYqmBb2P-KSW3FyqC5-24">
+        <mxCell id="-BwYqmBb2P-KSW3FyqC5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-15" target="-BwYqmBb2P-KSW3FyqC5-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="855" />
               <mxPoint x="430" y="780" />
               <mxPoint x="728" y="780" />
+              <mxPoint x="728" y="685" />
             </Array>
           </mxGeometry>
         </mxCell>
