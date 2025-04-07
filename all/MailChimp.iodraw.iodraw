@@ -36,7 +36,7 @@
           <mxGeometry x="44" y="1021" width="710" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-3" value="LISTA&lt;div&gt;(Audiencia&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="39" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="44" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-3" edge="1" target="-JAD9qgDEeSQXkdao1VZ-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-19" value="INTERESES" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="247.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-9" target="-JAD9qgDEeSQXkdao1VZ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -195,7 +195,7 @@
           <mxGeometry x="670" y="10" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-2" value="Segmento, interés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="270" width="130" height="40" as="geometry" />
+          <mxGeometry x="494" y="267.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-3" value="Segmento etiqueta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="70" width="130" height="40" as="geometry" />
