@@ -106,20 +106,17 @@
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-13" value="INTERÉS:&lt;div&gt;Equipo DAMA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="790" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1KgKn0QokJ7sPZmmxTpx-15" target="1KgKn0QokJ7sPZmmxTpx-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-15" value="INTERÉS:&lt;div&gt;Socios activos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WGfOoUmSKBevIfq6H20d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KgKn0QokJ7sPZmmxTpx-17" target="1KgKn0QokJ7sPZmmxTpx-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-17" value="CATEGORÍA:&lt;div&gt;5_DAMA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="976" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-18" value="CATEGORÍA:&lt;div&gt;1_SOCIOS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="976" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KgKn0QokJ7sPZmmxTpx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1KgKn0QokJ7sPZmmxTpx-21" target="1KgKn0QokJ7sPZmmxTpx-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KgKn0QokJ7sPZmmxTpx-21" value="INTERÉS:&lt;div&gt;Bajas DAMA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539" y="790" width="120" height="50" as="geometry" />
