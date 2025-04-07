@@ -53,6 +53,9 @@
             <mxPoint x="1" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-BwYqmBb2P-KSW3FyqC5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=10;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JAD9qgDEeSQXkdao1VZ-18" target="-BwYqmBb2P-KSW3FyqC5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-18" value="Suscriptores" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="319" y="30" width="120" height="80" as="geometry" />
         </mxCell>
@@ -173,19 +176,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-1" value="Segmento, ciudad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="40" width="130" height="40" as="geometry" />
+          <mxGeometry x="660" y="120" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-2" value="Segmento, interés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="100" width="130" height="40" as="geometry" />
+          <mxGeometry x="660" y="180" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-3" value="Segmento etiqueta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="130" height="40" as="geometry" />
+          <mxGeometry x="660" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-5" value="Datos, dirección, email etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="10" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-7" value="Etiquetas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="150" width="130" height="40" as="geometry" />
+          <mxGeometry x="474" y="70" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
