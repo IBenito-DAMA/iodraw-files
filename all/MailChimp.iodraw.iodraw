@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-1" value="Segmento, ciudad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="130" height="40" as="geometry" />
+          <mxGeometry x="670" y="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-2" value="Segmento, interés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="130" height="40" as="geometry" />
