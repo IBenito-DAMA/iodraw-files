@@ -203,22 +203,22 @@
           <mxGeometry x="474" y="70" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-14" value="Segmento para Madrid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="530" width="130" height="40" as="geometry" />
+          <mxGeometry x="670" y="535" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-15" value="Segmento etiquetas guionistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="590" width="130" height="40" as="geometry" />
+          <mxGeometry x="670" y="595" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-BwYqmBb2P-KSW3FyqC5-17" target="-BwYqmBb2P-KSW3FyqC5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-17" value="Madrid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="530" width="130" height="40" as="geometry" />
+          <mxGeometry x="474" y="535" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-BwYqmBb2P-KSW3FyqC5-19" target="-BwYqmBb2P-KSW3FyqC5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-19" value="Guionista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="590" width="130" height="40" as="geometry" />
+          <mxGeometry x="474" y="595" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
