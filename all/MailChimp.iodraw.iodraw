@@ -28,7 +28,7 @@
         <mxCell id="-JAD9qgDEeSQXkdao1VZ-3" value="LISTA&lt;div&gt;(Audiencia&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="39" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-JAD9qgDEeSQXkdao1VZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-3" edge="1" target="-JAD9qgDEeSQXkdao1VZ-18">
+        <mxCell id="-JAD9qgDEeSQXkdao1VZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" parent="1" source="-JAD9qgDEeSQXkdao1VZ-3" edge="1" target="-JAD9qgDEeSQXkdao1VZ-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="429" y="450" as="sourcePoint" />
             <mxPoint x="319" y="68.04000000000008" as="targetPoint" />
