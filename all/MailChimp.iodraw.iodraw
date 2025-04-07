@@ -232,6 +232,9 @@
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-26" value="SEGMENTOS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="654" y="498" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-BwYqmBb2P-KSW3FyqC5-27" value="Segmento Interés: Socios activos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="645" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
