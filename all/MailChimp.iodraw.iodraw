@@ -226,6 +226,9 @@
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-19" value="Etiqueta: Guionistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="595" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-BwYqmBb2P-KSW3FyqC5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF640A;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="570" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
