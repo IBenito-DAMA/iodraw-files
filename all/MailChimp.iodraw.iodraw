@@ -184,10 +184,7 @@
         <mxCell id="-BwYqmBb2P-KSW3FyqC5-5" value="Datos, dirección, email etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="10" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-BwYqmBb2P-KSW3FyqC5-6" value="Segmento, ciudad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-BwYqmBb2P-KSW3FyqC5-7" value="Segmento, ciudad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-BwYqmBb2P-KSW3FyqC5-7" value="Etiquetas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
