@@ -15,13 +15,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-70" width="64" height="70" as="geometry" />
+          <mxGeometry x="10" y="-70" width="64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-6" value="Ficheros kantar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-90" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-7" value="Import kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-40" width="100" height="40" as="geometry" />
+          <mxGeometry x="130" y="-165" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-8" value="Import barlovento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="-40" width="100" height="40" as="geometry" />
@@ -33,28 +33,28 @@
           <mxGeometry x="-2.842170943040401e-14" y="105" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-23" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-24" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-25" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-24" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-25" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-26" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-80" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="-200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-27" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-35" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="-155" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-28" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="10" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="-110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-29" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="-60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-30" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="90" height="30" as="geometry" />
+          <mxGeometry x="290" y="-10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-31" value="Referencias kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="10" width="100" height="40" as="geometry" />
