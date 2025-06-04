@@ -266,7 +266,7 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-111" value="SP Cruzar obras prog tv Fechas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-112" value="Sp Cruzar obras barlovento respecto a gris por fechas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-112" value="Sp Cruzar obras barlovento...a gris por fechas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-113" value="Carga datos de apoyo prog. tv a import&lt;div&gt;PROV: &amp;lt;&amp;gt; 00001&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
