@@ -20,16 +20,16 @@
           <mxGeometry x="630" y="-417.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-9" value="Import" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-250" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="-200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-10" value="Emisiones" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-155" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-31" value="Referencias kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-190" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="-100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-32" value="Referencias apoyo prog. tv" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="105" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-33" value="Programacion Tv" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="550" y="105" width="100" height="40" as="geometry" />
