@@ -331,7 +331,7 @@
           <mxGeometry x="284" y="130" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-134" value="Referencias barlovento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="624" y="162.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="590" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QWmHdKL7OitKmV6qXhCj-6" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="483.99979461073696" y="167.49983294134222" as="geometry" />
