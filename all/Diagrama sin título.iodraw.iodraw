@@ -302,6 +302,15 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-116" value="Sp Cruzar obra" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-125" value="&lt;font size=&quot;1&quot;&gt;Cruzar todo&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-126" value="&lt;font size=&quot;1&quot;&gt;Cruzar todo&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-127" value="&lt;font size=&quot;1&quot;&gt;Cruzar todo&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
