@@ -194,11 +194,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-85" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="xh5LKQca2d0xNSFAGIUs-84" vertex="1" connectable="0">
-          <mxGeometry x="-0.5321" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-62" value="SP De barlovento a import&amp;nbsp;&lt;br&gt;&lt;div&gt;desconexiones&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="404" y="-670" width="80" height="80" as="geometry" />
         </mxCell>
@@ -368,7 +363,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QWmHdKL7OitKmV6qXhCj-11" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="519.9963493974215" y="-539.997540893437" as="geometry">
+          <mxGeometry x="573.9963493974215" y="-599.997540893437" as="geometry">
+            <mxPoint x="-4" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWmHdKL7OitKmV6qXhCj-12" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="553.9963493974215" y="-679.997540893437" as="geometry">
             <mxPoint x="-4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
