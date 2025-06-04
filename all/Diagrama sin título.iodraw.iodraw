@@ -328,15 +328,13 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-126" target="xh5LKQca2d0xNSFAGIUs-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-132">
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-132" target="xh5LKQca2d0xNSFAGIUs-134">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="867.72" as="sourcePoint" />
             <mxPoint x="650" y="861.97" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="834" />
-              <mxPoint x="440" y="830" />
-              <mxPoint x="580" y="830" />
-              <mxPoint x="580" y="862" />
+              <mxPoint x="650" y="834" />
+              <mxPoint x="650" y="838" />
             </Array>
           </mxGeometry>
         </mxCell>
