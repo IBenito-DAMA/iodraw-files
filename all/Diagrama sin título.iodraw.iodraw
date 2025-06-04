@@ -7,8 +7,8 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-5" target="xh5LKQca2d0xNSFAGIUs-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="-20" />
-              <mxPoint x="180" y="-30" />
+              <mxPoint x="140" y="-30" />
+              <mxPoint x="140" y="-30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,7 +19,7 @@
           <mxGeometry x="30" y="-90" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-7" value="Import kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-40" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="-40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-8" value="Import barlovento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry y="280" width="100" height="40" as="geometry" />
