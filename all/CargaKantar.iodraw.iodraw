@@ -364,9 +364,6 @@
         <mxCell id="QWmHdKL7OitKmV6qXhCj-6" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="483.99979461073696" y="254.99983294134222" as="geometry" />
         </mxCell>
-        <mxCell id="QWmHdKL7OitKmV6qXhCj-7" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="604.689794610737" y="264.2598329413422" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
