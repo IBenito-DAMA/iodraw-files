@@ -57,7 +57,7 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-46" value="Import barlovento" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="-490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-47" value="Import barlovento&lt;div&gt;deconexiones&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="-390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-45" target="xh5LKQca2d0xNSFAGIUs-46">
