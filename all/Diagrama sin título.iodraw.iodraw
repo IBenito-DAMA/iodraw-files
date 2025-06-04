@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-70" value="UPDATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-69">
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-70" value="Update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-69">
           <mxGeometry x="-0.0507" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
