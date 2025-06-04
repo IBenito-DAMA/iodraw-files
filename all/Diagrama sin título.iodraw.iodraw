@@ -8,7 +8,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="94" y="-20.26142857142853" as="sourcePoint" />
             <mxPoint x="160" y="-20" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="160" y="-35" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
