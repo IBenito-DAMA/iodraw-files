@@ -219,11 +219,8 @@
         <mxCell id="xh5LKQca2d0xNSFAGIUs-87" value="&lt;font size=&quot;1&quot;&gt;Apoyo&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;prog. TV&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-210" as="sourcePoint" />
-            <mxPoint x="430" y="-260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="xh5LKQca2d0xNSFAGIUs-89" value="Carga datos de barlovento a import" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-152.5" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
