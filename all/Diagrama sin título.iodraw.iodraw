@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-56" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Import&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Barlovento&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-420" width="100" height="30" as="geometry" />
+          <mxGeometry x="20" y="-225" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
