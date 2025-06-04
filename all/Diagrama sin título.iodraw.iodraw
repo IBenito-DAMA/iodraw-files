@@ -227,7 +227,7 @@
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-144" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-104">
           <mxGeometry x="-0.2385" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-89" value="Carga datos de apoyo prog. tv a import&lt;div&gt;PROV: &amp;lt;&amp;gt; 00001&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
@@ -264,7 +264,7 @@
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-145" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-105">
           <mxGeometry x="-0.5844" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-108" target="xh5LKQca2d0xNSFAGIUs-109">
