@@ -360,11 +360,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh5LKQca2d0xNSFAGIUs-143" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="xh5LKQca2d0xNSFAGIUs-142" vertex="1" connectable="0">
-          <mxGeometry x="-0.8411" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-132" value="Proceso Sincroguia" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="284" y="217.5" width="150" height="75" as="geometry" />
         </mxCell>
