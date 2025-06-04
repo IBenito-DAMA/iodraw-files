@@ -18,7 +18,7 @@
           <mxGeometry x="30" y="-90" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-7" value="Import kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-8" value="Import barlovento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="274.29" y="90" width="100" height="40" as="geometry" />
@@ -27,7 +27,7 @@
           <mxGeometry x="440.29" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-10" value="Emisiones" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="590" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-11" value="DAMA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="374.29" y="-60" width="60" height="60" as="geometry" />
