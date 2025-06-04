@@ -264,7 +264,7 @@
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-145" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-105">
           <mxGeometry x="-0.5844" y="3" relative="1" as="geometry">
-            <mxPoint x="17" y="9" as="offset" />
+            <mxPoint x="3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-108" target="xh5LKQca2d0xNSFAGIUs-109">
@@ -312,11 +312,11 @@
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-122" value="Insert" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xh5LKQca2d0xNSFAGIUs-121">
           <mxGeometry x="-0.2075" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-116" value="Sp Cruzar obra" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="524" y="-290" width="80" height="80" as="geometry" />
+          <mxGeometry x="564" y="-290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh5LKQca2d0xNSFAGIUs-125" target="xh5LKQca2d0xNSFAGIUs-132">
           <mxGeometry relative="1" as="geometry" />
