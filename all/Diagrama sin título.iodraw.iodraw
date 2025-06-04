@@ -21,7 +21,7 @@
           <mxGeometry x="30" y="-90" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-7" value="Import kantar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="166" y="-40" width="100" height="40" as="geometry" />
+          <mxGeometry x="140" y="-40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-8" value="Import barlovento" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="-40" width="100" height="40" as="geometry" />
@@ -30,7 +30,7 @@
           <mxGeometry y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-10" value="Emisiones" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="149.70999999999998" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="-2.842170943040401e-14" y="105" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xh5LKQca2d0xNSFAGIUs-23" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="90" height="30" as="geometry" />
