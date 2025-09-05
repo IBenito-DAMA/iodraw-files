@@ -210,11 +210,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-4" value="¿Cómo se generan las líneas?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-3">
-          <mxGeometry x="0.0429" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
