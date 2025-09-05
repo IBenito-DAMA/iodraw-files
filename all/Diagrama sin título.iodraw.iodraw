@@ -181,8 +181,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-82" value="ID Factura Reparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="1098" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-84" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="920" width="80" height="80" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-84" value="NUEVA FACTURA CABLE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="920" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
