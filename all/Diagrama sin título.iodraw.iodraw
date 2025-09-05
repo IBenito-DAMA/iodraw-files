@@ -136,6 +136,15 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-53" value="NUEVA FACTURA CABLE" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="1060" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-55" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="940" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-56" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-55">
+          <mxGeometry x="-10" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-57" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-55">
+          <mxGeometry x="3" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
