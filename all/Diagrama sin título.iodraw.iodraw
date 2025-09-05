@@ -28,7 +28,7 @@
           <mxGeometry x="420" y="550" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-18" value="IdFacturaReparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
-          <mxGeometry x="-10" y="49" width="120" height="30" as="geometry" />
+          <mxGeometry x="11" y="49" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-19" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="10" y="98" width="50" height="30" as="geometry" />
