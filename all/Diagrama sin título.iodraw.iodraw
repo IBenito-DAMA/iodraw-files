@@ -124,8 +124,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-46" value="INTRANET AHORA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="40" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="738" width="50" height="30" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-47" value="NUEVAS TABLAS INTRANET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="738" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
