@@ -46,7 +46,7 @@
           <mxGeometry x="-10" y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-13" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
-          <mxGeometry x="10" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="3" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-14" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
           <mxGeometry y="88" width="50" height="30" as="geometry" />
@@ -93,6 +93,12 @@
           <mxGeometry x="970" y="320" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-32" value="IdFactura" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-31">
+          <mxGeometry y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-33" value="FacturasDetalle" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="330" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-34" value="IdFactura" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-33">
           <mxGeometry y="30" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
