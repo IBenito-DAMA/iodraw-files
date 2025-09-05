@@ -10,8 +10,8 @@
             <Array as="points">
               <mxPoint x="73" y="236" />
               <mxPoint x="40" y="236" />
-              <mxPoint x="40" y="790" />
-              <mxPoint x="380" y="790" />
+              <mxPoint x="40" y="720" />
+              <mxPoint x="380" y="720" />
               <mxPoint x="380" y="641" />
             </Array>
           </mxGeometry>
@@ -143,11 +143,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-50" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1020" y="939" width="90" height="100" as="geometry" />
+          <mxGeometry x="1020" y="941" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="N83BWuIXP4XOVpiYsb30-60" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="964" as="sourcePoint" />
+            <mxPoint x="95" y="966" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-2" value="¿SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-62">
@@ -157,11 +157,11 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="N83BWuIXP4XOVpiYsb30-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="1014" as="sourcePoint" />
+            <mxPoint x="95" y="1016" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="1004" />
-              <mxPoint x="150" y="1004" />
-              <mxPoint x="150" y="1501" />
+              <mxPoint x="95" y="1006" />
+              <mxPoint x="150" y="1006" />
+              <mxPoint x="150" y="1503" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-60" value="FACTURAS&lt;div&gt;FRCABLE202501&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="353" y="1039" width="235" height="60" as="geometry" />
+          <mxGeometry x="353" y="1041" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-61" target="N83BWuIXP4XOVpiYsb30-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -193,27 +193,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-61" value="FACTURAS VENTA LINEAS&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="1281" width="330" height="70" as="geometry" />
+          <mxGeometry x="330" y="1283" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FACTURAS VENTA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0001)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0002)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="337" y="1466" width="307" height="70" as="geometry" />
+          <mxGeometry x="337" y="1468" width="307" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-66" target="N83BWuIXP4XOVpiYsb30-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-66" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="810" y="1039" width="110" height="50" as="geometry" />
+          <mxGeometry x="810" y="1041" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-75" value="FACTURAS DETALLE&lt;div&gt;FRCABLE202501&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="345" y="929" width="230" height="60" as="geometry" />
+          <mxGeometry x="345" y="931" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-84" value="NUEVA FACTURA CABLE" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="933" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-64" target="N83BWuIXP4XOVpiYsb30-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="1456" as="sourcePoint" />
-            <mxPoint x="400" y="1366" as="targetPoint" />
+            <mxPoint x="400" y="1458" as="sourcePoint" />
+            <mxPoint x="400" y="1368" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
