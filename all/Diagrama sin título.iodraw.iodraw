@@ -11,7 +11,7 @@
           <mxGeometry x="1030" y="40" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Facturas Venta" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="240" width="110" height="150" as="geometry" />
+          <mxGeometry x="220" y="420" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-8" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="420" width="120" height="150" as="geometry" />
