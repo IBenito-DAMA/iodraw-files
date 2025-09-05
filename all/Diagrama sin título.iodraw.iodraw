@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Facturas Venta" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="550" width="140" height="150" as="geometry" />
+          <mxGeometry x="420" y="550" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-18" value="IdFacturaReparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="-10" y="49" width="120" height="30" as="geometry" />
@@ -36,7 +36,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-8" target="N83BWuIXP4XOVpiYsb30-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="355" y="490" />
+              <mxPoint x="290" y="550" />
+              <mxPoint x="290" y="490" />
               <mxPoint x="148" y="490" />
             </Array>
           </mxGeometry>
