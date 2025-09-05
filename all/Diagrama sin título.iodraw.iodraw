@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N83BWuIXP4XOVpiYsb30-8" source="N83BWuIXP4XOVpiYsb30-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="50" as="targetPoint" />
+            <mxPoint x="175" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-12" value="&lt;div&gt;IdFacturaDama&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
