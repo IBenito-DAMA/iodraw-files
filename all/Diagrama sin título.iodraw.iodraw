@@ -121,8 +121,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proceso factura cable&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="860" width="1060" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1005" y="28" width="50" height="30" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-46" value="INTRANET AHORA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="40" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
