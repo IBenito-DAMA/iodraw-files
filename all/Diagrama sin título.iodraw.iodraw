@@ -60,7 +60,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-26" value="IdFactura" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-10">
           <mxGeometry y="31" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-11" value="FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-11" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-17" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
