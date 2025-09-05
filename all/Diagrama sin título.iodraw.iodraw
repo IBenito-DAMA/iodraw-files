@@ -142,7 +142,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-53" value="NUEVA FACTURA CABLE" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="1060" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-60" value="FRCABLE&lt;div&gt;(Facturas)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-60" value="FRCABLE0000X&lt;div&gt;(Facturas)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="1020" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-61" target="N83BWuIXP4XOVpiYsb30-64">
