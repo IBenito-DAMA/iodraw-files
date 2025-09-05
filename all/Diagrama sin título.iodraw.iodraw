@@ -69,7 +69,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-11" target="N83BWuIXP4XOVpiYsb30-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FACTURAS VENTA&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PROCESO FACTURAS VENTA -&amp;nbsp; CREACIÓN&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="10" width="910" height="40" as="geometry" />
         </mxCell>
       </root>
