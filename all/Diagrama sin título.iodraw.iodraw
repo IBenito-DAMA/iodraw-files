@@ -172,8 +172,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-61" target="N83BWuIXP4XOVpiYsb30-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-61" value="FACTURAS VENTA&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange) (BC0001)&lt;/div&gt;&lt;div&gt;FRA0002 (Procono) (BC0002)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1200" width="180" height="70" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-61" value="FACTURAS VENTA&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange) (&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) (BC0001)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono) (&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;FRCABLE202501)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0002)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="1200" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="&lt;span style=&quot;&quot;&gt;FACTURAS VENTA LINEAS&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;FRA0001 (orange)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;FRA0002 (Procono)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="333" y="1320" width="170" height="70" as="geometry" />
