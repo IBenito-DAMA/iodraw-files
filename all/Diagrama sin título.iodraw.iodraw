@@ -22,6 +22,9 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-13" value="IdFacturaVentaBc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-14" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
+          <mxGeometry y="88" width="50" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-9" value="Facturas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="240" width="120" height="150" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="260" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="45" y="578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
