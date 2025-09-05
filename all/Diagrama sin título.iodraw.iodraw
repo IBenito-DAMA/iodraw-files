@@ -183,12 +183,7 @@
           <mxGeometry x="345" y="910" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-82" value="ID Factura Reparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="1098" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="1050" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="430" y="1120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-84" value="NUEVA FACTURA CABLE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="920" width="100" height="100" as="geometry" />
