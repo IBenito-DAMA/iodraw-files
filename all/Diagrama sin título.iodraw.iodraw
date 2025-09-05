@@ -43,7 +43,7 @@
           <mxGeometry x="260" y="528" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-17" value="&lt;div&gt;IdFacturaDama&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="45" y="535" width="110" height="30" as="geometry" />
+          <mxGeometry x="220" y="527" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
