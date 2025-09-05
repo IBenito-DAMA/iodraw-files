@@ -22,8 +22,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-7" target="N83BWuIXP4XOVpiYsb30-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="475" y="460" />
-              <mxPoint x="475" y="380" />
+              <mxPoint x="450" y="380" />
               <mxPoint x="203" y="380" />
             </Array>
           </mxGeometry>
@@ -33,6 +32,9 @@
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="20" y="75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-17" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
+          <mxGeometry x="10" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-8" target="N83BWuIXP4XOVpiYsb30-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -66,9 +68,6 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-11" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="260" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-17" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-11" target="N83BWuIXP4XOVpiYsb30-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
