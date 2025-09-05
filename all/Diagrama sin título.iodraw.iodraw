@@ -179,7 +179,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-66" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1020" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-75" value="FACTURAS DETALLE&lt;div&gt;FRCABLE000001&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-75" value="FACTURAS DETALLE&lt;div&gt;FRCABLE202501&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="910" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-82" value="ID Factura Reparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
