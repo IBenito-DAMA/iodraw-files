@@ -156,7 +156,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-60" target="N83BWuIXP4XOVpiYsb30-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-86" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ID Factura Reparto&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-81">
           <mxGeometry x="-0.1833" y="1" relative="1" as="geometry">
@@ -176,7 +180,7 @@
           <mxGeometry x="330" y="1200" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="&lt;span style=&quot;&quot;&gt;FACTURAS VENTA LINEAS&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;FRA0001 (orange)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;FRA0002 (Procono)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="334" y="1320" width="307" height="70" as="geometry" />
+          <mxGeometry x="336" y="1320" width="307" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-66" target="N83BWuIXP4XOVpiYsb30-50">
           <mxGeometry relative="1" as="geometry" />
