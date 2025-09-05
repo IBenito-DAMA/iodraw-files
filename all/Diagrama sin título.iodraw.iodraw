@@ -130,6 +130,9 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-49" value="INTRANET" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="920" width="90" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-50" target="N83BWuIXP4XOVpiYsb30-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-50" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="920" width="90" height="100" as="geometry" />
         </mxCell>
@@ -153,6 +156,9 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="FRA0000X&lt;div&gt;(FacturasVentaLineas)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="1150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-66" target="N83BWuIXP4XOVpiYsb30-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-66" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1020" width="110" height="50" as="geometry" />
