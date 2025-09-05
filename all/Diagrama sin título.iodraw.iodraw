@@ -148,8 +148,8 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-61" value="FRA0000X&lt;div&gt;(FacturasVenta)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="1080" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="FRA0000X&lt;div&gt;(FacturasVenta)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="1090" width="110" height="40" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="FRA0000X&lt;div&gt;(FacturasVentaLineas)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1150" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
