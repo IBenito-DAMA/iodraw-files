@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-9" value="NUEVA FACTURA / CAMBIO DE ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-23">
           <mxGeometry x="0.2927" y="-1" relative="1" as="geometry">
-            <mxPoint x="23" y="29" as="offset" />
+            <mxPoint x="28" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-0" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-8" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="550" width="140" height="150" as="geometry" />
+          <mxGeometry x="170" y="550" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-12" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-8" vertex="1">
           <mxGeometry x="-10" y="30" width="140" height="30" as="geometry" />
@@ -234,8 +234,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="175" />
-              <mxPoint x="40" y="710" />
-              <mxPoint x="380" y="710" />
+              <mxPoint x="40" y="720" />
+              <mxPoint x="380" y="720" />
               <mxPoint x="380" y="674" />
             </Array>
           </mxGeometry>
