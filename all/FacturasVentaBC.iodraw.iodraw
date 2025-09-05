@@ -10,9 +10,7 @@
             <Array as="points">
               <mxPoint x="73" y="236" />
               <mxPoint x="40" y="236" />
-              <mxPoint x="40" y="790" />
-              <mxPoint x="390" y="790" />
-              <mxPoint x="390" y="511" />
+              <mxPoint x="40" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-8" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="550" width="140" height="150" as="geometry" />
+          <mxGeometry x="110" y="590" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-12" value="&lt;div&gt;IdFacturaVenta&lt;span style=&quot;background-color: initial;&quot;&gt;Dama&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-8" vertex="1">
           <mxGeometry x="-10" y="30" width="140" height="30" as="geometry" />
