@@ -16,6 +16,9 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-8" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="490" width="120" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-12" value="&lt;div&gt;IdFacturaDamaBc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-8">
+          <mxGeometry x="-5" y="35" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-9" value="Facturas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="240" width="120" height="150" as="geometry" />
         </mxCell>
@@ -24,9 +27,6 @@
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="260" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-12" value="Id factura Dama Bc&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5" y="523" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
