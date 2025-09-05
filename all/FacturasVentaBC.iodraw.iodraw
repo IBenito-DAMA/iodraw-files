@@ -189,7 +189,7 @@
           <mxGeometry x="330" y="1275" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-64" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FACTURAS VENTA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0001)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0002)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="341.5" y="1460" width="307" height="70" as="geometry" />
+          <mxGeometry x="337" y="1460" width="307" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-66" target="N83BWuIXP4XOVpiYsb30-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -207,9 +207,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1450" as="sourcePoint" />
             <mxPoint x="400" y="1360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="413" y="1405" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
