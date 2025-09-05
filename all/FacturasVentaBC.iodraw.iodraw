@@ -1,27 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="N83BWuIXP4XOVpiYsb30-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=-0.017;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-0" target="B5W8Zm06QR9DePpgv290-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="193" y="615" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="73" y="236" />
-              <mxPoint x="40" y="236" />
-              <mxPoint x="40" y="720" />
-              <mxPoint x="380" y="720" />
-              <mxPoint x="380" y="641" />
-              <mxPoint x="439" y="641" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-9" value="NUEVA FACTURA / CAMBIO DE ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-23">
-          <mxGeometry x="0.2927" y="-1" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-0" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="70" width="90" height="120" as="geometry" />
         </mxCell>
@@ -41,6 +23,24 @@
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-10" value="Estado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="20" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.033;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.025;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" parent="N83BWuIXP4XOVpiYsb30-7" source="B5W8Zm06QR9DePpgv290-10" target="B5W8Zm06QR9DePpgv290-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-227" y="65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-347" y="119" />
+              <mxPoint x="-347" y="-314" />
+              <mxPoint x="-380" y="-314" />
+              <mxPoint x="-380" y="170" />
+              <mxPoint x="-40" y="170" />
+              <mxPoint x="-40" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5W8Zm06QR9DePpgv290-9" value="NUEVA FACTURA / CAMBIO DE ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-23">
+          <mxGeometry x="0.2927" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-8" target="N83BWuIXP4XOVpiYsb30-11" edge="1">
           <mxGeometry relative="1" as="geometry">
