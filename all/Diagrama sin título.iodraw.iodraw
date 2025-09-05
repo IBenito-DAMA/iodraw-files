@@ -11,10 +11,10 @@
           <mxGeometry x="1030" y="40" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Facturas Venta" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="490" width="120" height="150" as="geometry" />
+          <mxGeometry x="210" y="490" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-18" value="IdFacturaReparto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
-          <mxGeometry x="-10" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="-10" y="49" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-19" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="10" y="98" width="50" height="30" as="geometry" />
