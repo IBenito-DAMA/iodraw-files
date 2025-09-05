@@ -22,13 +22,14 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-7" target="N83BWuIXP4XOVpiYsb30-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="475" y="450" />
-              <mxPoint x="203" y="450" />
+              <mxPoint x="475" y="460" />
+              <mxPoint x="475" y="380" />
+              <mxPoint x="203" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Facturas Venta" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="550" width="160" height="150" as="geometry" />
+          <mxGeometry x="410" y="420" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
           <mxGeometry x="20" y="75" width="120" height="30" as="geometry" />
@@ -103,10 +104,10 @@
             <mxPoint x="550" y="618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.021;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-12" edge="1" target="N83BWuIXP4XOVpiYsb30-17">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="595" as="sourcePoint" />
-            <mxPoint x="440" y="595" as="targetPoint" />
+            <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-44" value="" style="shape=link;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
