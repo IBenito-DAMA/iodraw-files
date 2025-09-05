@@ -8,13 +8,10 @@
           <mxGeometry x="40" y="40" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-2" value="DAMA&lt;div&gt;Intranet&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="40" width="90" height="120" as="geometry" />
+          <mxGeometry x="710" y="40" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-0" target="N83BWuIXP4XOVpiYsb30-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=82.5;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=82.5;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-2" target="N83BWuIXP4XOVpiYsb30-0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="270" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
