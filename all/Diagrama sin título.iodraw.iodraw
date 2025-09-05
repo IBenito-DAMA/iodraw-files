@@ -130,8 +130,11 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-49" value="INTRANET" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="920" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-50" value="INTRANET" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-50" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="920" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="N83BWuIXP4XOVpiYsb30-51" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1040" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
