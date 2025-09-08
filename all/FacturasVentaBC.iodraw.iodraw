@@ -345,7 +345,7 @@
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lXZXYjivigBvET25ptdt-4" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lXZXYjivigBvET25ptdt-4" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="2548" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lXZXYjivigBvET25ptdt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="lXZXYjivigBvET25ptdt-13">
