@@ -345,7 +345,7 @@
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lXZXYjivigBvET25ptdt-4" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lXZXYjivigBvET25ptdt-4" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="2548" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lXZXYjivigBvET25ptdt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="lXZXYjivigBvET25ptdt-13">
@@ -410,7 +410,7 @@
         <mxCell id="lXZXYjivigBvET25ptdt-19" value="FACTURAS DETALLE&lt;div&gt;&lt;div&gt;FCN26-00001 - CINE&lt;br&gt;&lt;/div&gt;&lt;div&gt;FCN26-00002 - FEST.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="2538" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXZXYjivigBvET25ptdt-20" value="NUEVA FACTURA&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lXZXYjivigBvET25ptdt-20" value="NUEVA FACTURA&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="2542" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lXZXYjivigBvET25ptdt-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lXZXYjivigBvET25ptdt-16" target="lXZXYjivigBvET25ptdt-15">
