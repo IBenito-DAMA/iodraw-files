@@ -13,8 +13,8 @@
         <mxCell id="y2vV_le5t9psl6tZL_og-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Facturas Television&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="540" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y2vV_le5t9psl6tZL_og-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Facturación Dama&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="540" height="40" as="geometry" />
+        <mxCell id="y2vV_le5t9psl6tZL_og-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proveedores - Facturas Recibidas&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="540" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
