@@ -271,7 +271,7 @@
             <mxPoint x="105" y="1803" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-20" value="SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-19" vertex="1" connectable="0">
+        <mxCell id="B5W8Zm06QR9DePpgv290-20" value="SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;" parent="B5W8Zm06QR9DePpgv290-19" vertex="1" connectable="0">
           <mxGeometry x="0.1102" y="1" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
