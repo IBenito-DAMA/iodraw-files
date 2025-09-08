@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-9" value="NUEVA FACTURA / CAMBIO DE ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-23">
+        <mxCell id="B5W8Zm06QR9DePpgv290-9" value="NUEVA FACTURA / CAMBIO DE ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-23" vertex="1" connectable="0">
           <mxGeometry x="0.2927" y="-1" relative="1" as="geometry">
             <mxPoint x="28" y="9" as="offset" />
           </mxGeometry>
@@ -35,10 +35,10 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-7" value="Facturas Venta" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="550" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
+        <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
           <mxGeometry x="20" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-10" value="Estado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="N83BWuIXP4XOVpiYsb30-7">
+        <mxCell id="B5W8Zm06QR9DePpgv290-10" value="Estado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
           <mxGeometry x="20" y="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-8" value="Facturas Venta Lineas" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -102,17 +102,17 @@
             <mxPoint x="550" y="618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3BstartArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.25%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.25%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22414%22%20y%3D%221466%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22413%22%20y%3D%221351%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%C2%BFPor%20qu%C3%A9%20el%20id%20factura%20reparto%20va%20en%20la%20l%C3%ADnea%20y%20no%20en%20la%20cabecera%3F%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBackgroundColor%3D%23FF5E5E%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-0.0786%22%20y%3D%22-2%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-29">
+        <mxCell id="B5W8Zm06QR9DePpgv290-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3BstartArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.25%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.25%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22414%22%20y%3D%221466%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22413%22%20y%3D%221351%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%C2%BFPor%20qu%C3%A9%20el%20id%20factura%20reparto%20va%20en%20la%20l%C3%ADnea%20y%20no%20en%20la%20cabecera%3F%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBackgroundColor%3D%23FF5E5E%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-0.0786%22%20y%3D%22-2%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-29" vertex="1" connectable="0">
           <mxGeometry x="-0.0267" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-8" value="&lt;span style=&quot;background-color: rgb(255, 94, 94);&quot;&gt;¿Por qué el id factura reparto va en la línea y no en la cabecera?&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-29">
+        <mxCell id="B5W8Zm06QR9DePpgv290-8" value="&lt;span style=&quot;background-color: rgb(255, 94, 94);&quot;&gt;¿Por qué el id factura reparto va en la línea y no en la cabecera?&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-29" vertex="1" connectable="0">
           <mxGeometry x="-0.1232" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N83BWuIXP4XOVpiYsb30-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.021;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-12" edge="1" target="N83BWuIXP4XOVpiYsb30-17">
+        <mxCell id="N83BWuIXP4XOVpiYsb30-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.021;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-12" target="N83BWuIXP4XOVpiYsb30-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="595" as="sourcePoint" />
             <mxPoint x="440" y="595" as="targetPoint" />
@@ -149,7 +149,7 @@
             <mxPoint x="95" y="973" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-2" value="¿SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-62">
+        <mxCell id="B5W8Zm06QR9DePpgv290-2" value="¿SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="N83BWuIXP4XOVpiYsb30-62" vertex="1" connectable="0">
           <mxGeometry x="0.1102" y="1" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
@@ -167,7 +167,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-60" target="N83BWuIXP4XOVpiYsb30-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-40" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-77">
+        <mxCell id="B5W8Zm06QR9DePpgv290-40" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-77" vertex="1" connectable="0">
           <mxGeometry x="0.1153" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -185,7 +185,7 @@
             <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-38" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-88">
+        <mxCell id="B5W8Zm06QR9DePpgv290-38" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-88" vertex="1" connectable="0">
           <mxGeometry x="-0.5731" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -196,7 +196,7 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-61" target="N83BWuIXP4XOVpiYsb30-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-0" value="¿Cuándo se envía la factura a BC?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="N83BWuIXP4XOVpiYsb30-70">
+        <mxCell id="B5W8Zm06QR9DePpgv290-0" value="¿Cuándo se envía la factura a BC?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="N83BWuIXP4XOVpiYsb30-70" vertex="1" connectable="0">
           <mxGeometry x="0.0239" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -219,24 +219,24 @@
         <mxCell id="N83BWuIXP4XOVpiYsb30-84" value="NUEVA FACTURA CABLE" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="942" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-64" target="N83BWuIXP4XOVpiYsb30-61">
+        <mxCell id="B5W8Zm06QR9DePpgv290-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-64" target="N83BWuIXP4XOVpiYsb30-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1465" as="sourcePoint" />
             <mxPoint x="400" y="1375" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-5" value="¿Por qué el id factura reparto va en la línea y no en la cabecera?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-3">
+        <mxCell id="B5W8Zm06QR9DePpgv290-5" value="¿Por qué el id factura reparto va en la línea y no en la cabecera?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0786" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-39" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-3">
+        <mxCell id="B5W8Zm06QR9DePpgv290-39" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-3" vertex="1" connectable="0">
           <mxGeometry x="0.444" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=-0.05;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-0" target="B5W8Zm06QR9DePpgv290-10">
+        <mxCell id="B5W8Zm06QR9DePpgv290-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=-0.05;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-0" target="B5W8Zm06QR9DePpgv290-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="175" />
@@ -246,37 +246,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-14" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-14" value="" style="shape=link;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="5" y="1654" as="sourcePoint" />
             <mxPoint x="1165" y="1657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proceso factura cable o copia privada&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proceso facturas o facturas cine&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1690" width="1060" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-18" target="B5W8Zm06QR9DePpgv290-30">
+        <mxCell id="B5W8Zm06QR9DePpgv290-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-18" target="B5W8Zm06QR9DePpgv290-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-17" value="ID BUSINESS CENTRAL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-16">
+        <mxCell id="B5W8Zm06QR9DePpgv290-17" value="ID BUSINESS CENTRAL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-16" vertex="1" connectable="0">
           <mxGeometry x="0.4743" y="3" relative="1" as="geometry">
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-18" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-18" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1030" y="1778" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="B5W8Zm06QR9DePpgv290-26">
+        <mxCell id="B5W8Zm06QR9DePpgv290-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="B5W8Zm06QR9DePpgv290-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="105" y="1803" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-20" value="¿SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-19">
+        <mxCell id="B5W8Zm06QR9DePpgv290-20" value="¿SI existe una de cable&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-19" vertex="1" connectable="0">
           <mxGeometry x="0.1102" y="1" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="B5W8Zm06QR9DePpgv290-30">
+        <mxCell id="B5W8Zm06QR9DePpgv290-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="B5W8Zm06QR9DePpgv290-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="105" y="1853" as="sourcePoint" />
             <Array as="points">
@@ -286,74 +286,74 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-26" target="B5W8Zm06QR9DePpgv290-33">
+        <mxCell id="B5W8Zm06QR9DePpgv290-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-26" target="B5W8Zm06QR9DePpgv290-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-42" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-22">
+        <mxCell id="B5W8Zm06QR9DePpgv290-42" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-22" vertex="1" connectable="0">
           <mxGeometry x="0.0189" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-26" target="B5W8Zm06QR9DePpgv290-29">
+        <mxCell id="B5W8Zm06QR9DePpgv290-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-26" target="B5W8Zm06QR9DePpgv290-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-23">
+        <mxCell id="B5W8Zm06QR9DePpgv290-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-23" vertex="1" connectable="0">
           <mxGeometry x="0.1142" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-25" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ID Factura Reparto&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FTV26-00001&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-23">
+        <mxCell id="B5W8Zm06QR9DePpgv290-25" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ID Factura Reparto&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FTV26-00001&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-23" vertex="1" connectable="0">
           <mxGeometry x="0.0886" y="-2" relative="1" as="geometry">
             <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-37" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-23">
+        <mxCell id="B5W8Zm06QR9DePpgv290-37" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-23" vertex="1" connectable="0">
           <mxGeometry x="-0.5183" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-26" value="FACTURAS&lt;div&gt;FTV26-00001&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-26" value="FACTURAS&lt;div&gt;FTV26-00001&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="363" y="1878" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-29" target="B5W8Zm06QR9DePpgv290-32">
+        <mxCell id="B5W8Zm06QR9DePpgv290-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-29" target="B5W8Zm06QR9DePpgv290-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-28" value="¿Cuándo se envía la factura a BC?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-27">
+        <mxCell id="B5W8Zm06QR9DePpgv290-28" value="¿Cuándo se envía la factura a BC?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-27" vertex="1" connectable="0">
           <mxGeometry x="0.0239" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-29" value="FACTURAS VENTA LINEAS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;FRA0001 (TV)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;FTV26-00001&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-29" value="FACTURAS VENTA LINEAS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;FRA0001 (TV)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;FTV26-00001&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="2120" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FACTURAS VENTA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;div&gt;FRA0001 (TV)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0001)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FACTURAS VENTA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;div&gt;FRA0001 (TV)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0001)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="347" y="2305" width="307" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-32" target="B5W8Zm06QR9DePpgv290-18">
+        <mxCell id="B5W8Zm06QR9DePpgv290-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-32" target="B5W8Zm06QR9DePpgv290-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-32" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-32" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="820" y="1878" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-33" value="FACTURAS DETALLE&lt;div&gt;FTV26-00001&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-33" value="FACTURAS DETALLE&lt;div&gt;FTV26-00001&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="1768" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-34" value="NUEVA FACTURA&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B5W8Zm06QR9DePpgv290-34" value="NUEVA FACTURA&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1772" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-30" target="B5W8Zm06QR9DePpgv290-29">
+        <mxCell id="B5W8Zm06QR9DePpgv290-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-30" target="B5W8Zm06QR9DePpgv290-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="2295" as="sourcePoint" />
             <mxPoint x="410" y="2205" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-36" value="¿Por qué el id factura reparto va en la línea y no en la cabecera?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-35">
+        <mxCell id="B5W8Zm06QR9DePpgv290-36" value="¿Por qué el id factura reparto va en la línea y no en la cabecera?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-35" vertex="1" connectable="0">
           <mxGeometry x="-0.0786" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-43" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B5W8Zm06QR9DePpgv290-35">
+        <mxCell id="B5W8Zm06QR9DePpgv290-43" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-35" vertex="1" connectable="0">
           <mxGeometry x="0.3213" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
