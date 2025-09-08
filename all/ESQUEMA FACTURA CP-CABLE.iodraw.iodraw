@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proceso factura cable o copia privada&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="37" y="860" width="1060" height="40" as="geometry" />
+          <mxGeometry x="38" y="842" width="1060" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ee9WSfz1Lh76yiL5xzPF-4" target="Ee9WSfz1Lh76yiL5xzPF-17">
           <mxGeometry relative="1" as="geometry" />
@@ -16,11 +16,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-4" value="BC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="948" width="90" height="100" as="geometry" />
+          <mxGeometry x="1028" y="930" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ee9WSfz1Lh76yiL5xzPF-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="102" y="973" as="sourcePoint" />
+            <mxPoint x="103" y="955" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-6" value="&lt;span style=&quot;&quot;&gt;SI existe una de cable&lt;/span&gt;&lt;div&gt;Se suma el importe.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Y se añade el detalle&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;" vertex="1" connectable="0" parent="Ee9WSfz1Lh76yiL5xzPF-5">
@@ -30,11 +30,11 @@
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ee9WSfz1Lh76yiL5xzPF-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="102" y="1023" as="sourcePoint" />
+            <mxPoint x="103" y="1005" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="102" y="1013" />
-              <mxPoint x="157" y="1013" />
-              <mxPoint x="157" y="1510" />
+              <mxPoint x="103" y="995" />
+              <mxPoint x="158" y="995" />
+              <mxPoint x="158" y="1492" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,33 +65,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-14" value="FACTURAS&lt;div&gt;FRCABLE202501&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1048" width="235" height="60" as="geometry" />
+          <mxGeometry x="361" y="1030" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ee9WSfz1Lh76yiL5xzPF-16" target="Ee9WSfz1Lh76yiL5xzPF-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-16" value="FACTURAS VENTA LINEAS&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;FRCABLE202501&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="337" y="1290" width="330" height="70" as="geometry" />
+          <mxGeometry x="338" y="1272" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FACTURAS VENTA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;FRA0001 (orange)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0001)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FRA0002 (Procono)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(BC0002)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1475" width="307" height="70" as="geometry" />
+          <mxGeometry x="345" y="1457" width="307" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ee9WSfz1Lh76yiL5xzPF-19" target="Ee9WSfz1Lh76yiL5xzPF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-19" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="817" y="1048" width="110" height="50" as="geometry" />
+          <mxGeometry x="818" y="1030" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-20" value="FACTURAS DETALLE&lt;div&gt;FRCABLE202501&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="938" width="230" height="60" as="geometry" />
+          <mxGeometry x="353" y="920" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-21" value="NUEVA FACTURA CABLE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37" y="942" width="100" height="100" as="geometry" />
+          <mxGeometry x="38" y="924" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ee9WSfz1Lh76yiL5xzPF-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ee9WSfz1Lh76yiL5xzPF-17" target="Ee9WSfz1Lh76yiL5xzPF-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="407" y="1465" as="sourcePoint" />
-            <mxPoint x="407" y="1375" as="targetPoint" />
+            <mxPoint x="408" y="1447" as="sourcePoint" />
+            <mxPoint x="408" y="1357" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
