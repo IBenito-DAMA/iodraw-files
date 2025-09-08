@@ -35,7 +35,7 @@
           <mxGeometry x="210" y="540" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
-          <mxGeometry x="20" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-10" value="Estado" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
           <mxGeometry x="20" y="103" width="60" height="30" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="880" y="40" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-47" value="NUEVAS TABLAS INTRANET-BC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="500" width="200" height="30" as="geometry" />
+          <mxGeometry x="310" y="490" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-50" target="N83BWuIXP4XOVpiYsb30-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
