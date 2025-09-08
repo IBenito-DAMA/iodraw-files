@@ -379,7 +379,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lXZXYjivigBvET25ptdt-11" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ID Factura Reparto&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FTV26-00001&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lXZXYjivigBvET25ptdt-9">
+        <mxCell id="lXZXYjivigBvET25ptdt-11" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ID Factura Reparto&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FCN26-00001&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;FCN26-00002&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lXZXYjivigBvET25ptdt-9">
           <mxGeometry x="0.0886" y="-2" relative="1" as="geometry">
             <mxPoint x="2" as="offset" />
           </mxGeometry>
@@ -407,7 +407,7 @@
         <mxCell id="lXZXYjivigBvET25ptdt-18" value="&lt;div&gt;OBJETO&lt;/div&gt;FACTURA BC" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="2638" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lXZXYjivigBvET25ptdt-19" value="FACTURAS DETALLE&lt;div&gt;FTV26-00001&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lXZXYjivigBvET25ptdt-19" value="FACTURAS DETALLE&lt;div&gt;&lt;div&gt;FCN26-00001&lt;br&gt;&lt;/div&gt;&lt;div&gt;FCN26-00002&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="2528" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lXZXYjivigBvET25ptdt-20" value="NUEVA FACTURA&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
