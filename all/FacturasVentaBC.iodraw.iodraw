@@ -107,11 +107,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-8" value="&lt;span style=&quot;background-color: rgb(255, 94, 94);&quot;&gt;¿Por qué el id factura reparto va en la línea y no en la cabecera?&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.1232" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.021;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-12" target="N83BWuIXP4XOVpiYsb30-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="595" as="sourcePoint" />
