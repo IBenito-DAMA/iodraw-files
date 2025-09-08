@@ -35,7 +35,7 @@
           <mxGeometry x="210" y="540" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-6" value="IdFacturaVentaBc" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
-          <mxGeometry x="20" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="67" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-10" value="Estado" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="N83BWuIXP4XOVpiYsb30-7" vertex="1">
           <mxGeometry x="20" y="103" width="60" height="30" as="geometry" />
@@ -103,7 +103,7 @@
               <mxPoint x="710" y="130" />
             </Array>
             <mxPoint x="789.02" y="129.99" as="sourcePoint" />
-            <mxPoint x="710" y="210" as="targetPoint" />
+            <mxPoint x="530" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3BstartArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BentryX%3D0.25%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.25%3BexitY%3D0%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22414%22%20y%3D%221466%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22413%22%20y%3D%221351%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%C2%BFPor%20qu%C3%A9%20el%20id%20factura%20reparto%20va%20en%20la%20l%C3%ADnea%20y%20no%20en%20la%20cabecera%3F%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BlabelBackgroundColor%3D%23FF5E5E%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-0.0786%22%20y%3D%22-2%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N83BWuIXP4XOVpiYsb30-29" vertex="1" connectable="0">
@@ -124,7 +124,7 @@
           <mxGeometry x="880" y="40" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-47" value="NUEVAS TABLAS INTRANET-BC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="500" width="200" height="30" as="geometry" />
+          <mxGeometry x="290" y="490" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N83BWuIXP4XOVpiYsb30-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N83BWuIXP4XOVpiYsb30-50" target="N83BWuIXP4XOVpiYsb30-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
