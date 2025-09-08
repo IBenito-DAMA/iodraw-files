@@ -318,11 +318,6 @@
         <mxCell id="B5W8Zm06QR9DePpgv290-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B5W8Zm06QR9DePpgv290-29" target="B5W8Zm06QR9DePpgv290-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-28" value="Una vez creada la factura se envia a BC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-27" vertex="1" connectable="0">
-          <mxGeometry x="0.0239" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-29" value="FACTURAS VENTA LINEAS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;FRA0001 (TV)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;FTV26-00001&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="2120" width="330" height="70" as="geometry" />
         </mxCell>
@@ -346,11 +341,6 @@
             <mxPoint x="410" y="2295" as="sourcePoint" />
             <mxPoint x="410" y="2205" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B5W8Zm06QR9DePpgv290-36" value="¿Por qué el id factura reparto va en la línea y no en la cabecera?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FF5E5E;" parent="B5W8Zm06QR9DePpgv290-35" vertex="1" connectable="0">
-          <mxGeometry x="-0.0786" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B5W8Zm06QR9DePpgv290-43" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B5W8Zm06QR9DePpgv290-35" vertex="1" connectable="0">
