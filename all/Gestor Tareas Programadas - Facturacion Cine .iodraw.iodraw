@@ -228,6 +228,9 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-114" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="760" as="geometry" />
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-116" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="246" y="896" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
