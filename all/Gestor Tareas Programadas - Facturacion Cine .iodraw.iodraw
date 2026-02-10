@@ -36,7 +36,7 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-19" value="¿Hay tareas de&amp;nbsp;&lt;div&gt;facturación de cine activas&amp;nbsp;&lt;/div&gt;&lt;div&gt;en el horarios programado?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-19" value="¿Hay tareas de&amp;nbsp;&lt;div&gt;facturación de cine activas&amp;nbsp;&lt;/div&gt;&lt;div&gt;en el horario programado?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="186" width="239" height="143" as="geometry" />
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-24" value="FIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
