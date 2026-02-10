@@ -31,8 +31,8 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-19" value="¿Hay tareas de facturación activas?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331" y="207" width="186" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-23" value="¿Cumple horarios, periodicida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="340" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
