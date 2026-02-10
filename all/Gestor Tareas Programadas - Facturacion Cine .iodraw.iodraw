@@ -182,9 +182,9 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.418;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-86" target="N4z_pr65O4sBVyuaFNQ9-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-90" value="ACTUALIZACION ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-89">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-90" value="ACTUALIZACION ESTADO&lt;div&gt;FECHA Y HORA&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-89">
           <mxGeometry x="0.1555" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-19" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
