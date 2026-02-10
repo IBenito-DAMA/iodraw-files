@@ -158,7 +158,7 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-67" value="Proceso envio de la factura a BC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-71">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.963;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-71" target="N4z_pr65O4sBVyuaFNQ9-117">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="800" as="targetPoint" />
             <Array as="points">
@@ -231,7 +231,7 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-116" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="246" y="896" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-117" value="Por cada elemento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="770" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
