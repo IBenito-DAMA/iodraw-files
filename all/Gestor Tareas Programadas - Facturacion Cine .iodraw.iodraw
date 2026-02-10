@@ -80,13 +80,20 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-38" value="¿Hay una tarea igual&amp;nbsp;&lt;div&gt;en ejecución?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269" y="480" width="140.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="787.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-44" value="Se ejecuta la tarea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="655" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-48" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="790" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-49" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4z_pr65O4sBVyuaFNQ9-48">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-50" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4z_pr65O4sBVyuaFNQ9-48">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-51" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4z_pr65O4sBVyuaFNQ9-48">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
