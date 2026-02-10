@@ -24,8 +24,8 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-7" value="FCN26-00003" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4z_pr65O4sBVyuaFNQ9-4">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-8" value="Tarea programada&amp;nbsp;&lt;div&gt;--FACTURACION&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="240" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
