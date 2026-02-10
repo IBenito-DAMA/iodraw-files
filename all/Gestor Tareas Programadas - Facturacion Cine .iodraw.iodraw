@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="240" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-19" value="¿Hay tareas de facturación activas?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="334" y="240" width="156" height="80" as="geometry" />
+          <mxGeometry x="334" y="230" width="186" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
