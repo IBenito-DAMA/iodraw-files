@@ -142,6 +142,11 @@
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-71" value="¿Hay mas elementos?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="900" width="170" height="80" as="geometry" />
         </mxCell>
