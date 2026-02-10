@@ -221,6 +221,9 @@
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-111" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="1120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
