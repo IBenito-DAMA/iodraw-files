@@ -208,6 +208,14 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-102" value="FCN26-00001 - En ejecucion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4z_pr65O4sBVyuaFNQ9-101">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.771;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-71" target="N4z_pr65O4sBVyuaFNQ9-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-107" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-106">
+          <mxGeometry x="-0.2688" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
