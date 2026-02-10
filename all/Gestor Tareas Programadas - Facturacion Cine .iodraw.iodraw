@@ -152,9 +152,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-76">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-77" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-76">
           <mxGeometry x="-0.2608" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
