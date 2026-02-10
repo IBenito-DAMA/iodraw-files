@@ -131,8 +131,10 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-67" target="N4z_pr65O4sBVyuaFNQ9-81">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-83" value="ERROR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-82">
           <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
@@ -173,9 +175,6 @@
             <mxPoint x="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-86" value="Cada 5 mins" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="885" width="80" height="80" as="geometry" />
         </mxCell>
@@ -184,7 +183,7 @@
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-90" value="ACTUALIZACION ESTADO&lt;div&gt;FECHA Y HORA&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-89">
           <mxGeometry x="0.1555" y="1" relative="1" as="geometry">
-            <mxPoint x="-19" y="-24" as="offset" />
+            <mxPoint x="-14" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
