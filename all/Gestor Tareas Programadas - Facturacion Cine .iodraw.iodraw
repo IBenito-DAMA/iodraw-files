@@ -56,6 +56,9 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-28" value="Tarea&lt;div&gt;ENVIAR FACTURA CINE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-38" value="¿Hay una tarea&amp;nbsp;&lt;div&gt;en ejecución?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="269" y="495" width="140.5" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
