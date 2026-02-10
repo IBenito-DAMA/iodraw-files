@@ -80,8 +80,14 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-38" value="¿Hay una tarea igual&amp;nbsp;&lt;div&gt;en ejecución?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269" y="480" width="140.5" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-44" target="N4z_pr65O4sBVyuaFNQ9-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-44" value="Se ejecuta la tarea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="655" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-46" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="787.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
