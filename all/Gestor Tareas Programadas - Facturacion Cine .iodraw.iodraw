@@ -120,7 +120,7 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-66" target="N4z_pr65O4sBVyuaFNQ9-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-66" value="Coge X elementos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N4z_pr65O4sBVyuaFNQ9-66" value="POR Cada element" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-67">
@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-114" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="760" as="geometry" />
+          <mxGeometry x="260" y="766" as="geometry" />
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-116" value="CAMBIA ESTADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="246" y="896" as="geometry" />
