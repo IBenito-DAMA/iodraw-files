@@ -123,14 +123,6 @@
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-66" value="Coge X elementos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-67" target="N4z_pr65O4sBVyuaFNQ9-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N4z_pr65O4sBVyuaFNQ9-78" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N4z_pr65O4sBVyuaFNQ9-72">
-          <mxGeometry x="-0.5368" y="-3" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-67" target="N4z_pr65O4sBVyuaFNQ9-91">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1030" as="targetPoint" />
@@ -161,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-71" value="¿Hay mas elementos?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="920" width="170" height="80" as="geometry" />
+          <mxGeometry x="610" y="930" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N4z_pr65O4sBVyuaFNQ9-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.357;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4z_pr65O4sBVyuaFNQ9-71" target="N4z_pr65O4sBVyuaFNQ9-58">
           <mxGeometry relative="1" as="geometry">
