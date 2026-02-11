@@ -250,7 +250,7 @@
           <mxGeometry x="340" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jmE61PKIkzJcrHIgax90-0" value="- Elemento con error de la misma tarea&lt;div&gt;- Tareas con una ejecucion en error&lt;/div&gt;&lt;div&gt;- Tareas que no admiten proceso paralelos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="450" width="250" height="60" as="geometry" />
+          <mxGeometry x="340" y="570" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jmE61PKIkzJcrHIgax90-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jmE61PKIkzJcrHIgax90-0" target="jmE61PKIkzJcrHIgax90-0">
           <mxGeometry relative="1" as="geometry" />
